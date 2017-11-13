@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>jsdb.js</file>
+        <file>i18n/translation_en.qm</file>
+        <file>i18n/translation_en.ts</file>
+        <file>i18n/translation_it.qm</file>
+        <file>i18n/translation_it.ts</file>
+    </qresource>
+</RCC>
